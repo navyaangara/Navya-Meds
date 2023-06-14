@@ -20,3 +20,7 @@ Some of the screenshot taken while developing the project
 ![image](https://github.com/navyaangara/Navya-Meds/assets/107920298/51b7ae86-6298-4b7d-a640-c166b8467a62)
 
 5.Creating the static webapp
+![image](https://github.com/navyaangara/Navya-Meds/assets/107920298/18af1c14-8d1e-4209-ae1a-f847c07d035c)
+
+6. Successfully Deployed the webiste in azure
+![image](https://github.com/navyaangara/Navya-Meds/assets/107920298/fbe04349-e5c5-4dc9-a960-a3ae68456160)
