@@ -3,7 +3,7 @@ In this project I have created a webpage for Hospital where anyone can check the
 And even they can book free consultation using our bot.
 I have User HTML, CSS, JAVASCRIPT , AZURE LANGUAGE STUDIO, BOT SERVICE, STATIC WEBAPPS for this project.
 
-Poject link( demo link): 
+Poject link( demo link): https://gray-beach-01ed15110.3.azurestaticapps.net/
 
 Some of the screenshot taken while developing the project
  
